@@ -14,7 +14,7 @@ plurality = 30.0
 nationalvalue = nv_tradition
 literacy = 0.6
 non_state_culture_literacy = 0.25
-prestige = 25
+prestige = 50
 civilized = yes
 is_releasable_vassal = no
 
