@@ -1,6 +1,6 @@
 name = "Xi Propaganda Mod"
-path = "mod/Xi-Jinping-Propaganda-Mod"
-user_dir = "Xi-Jinping-Propaganda-Mod"
+path = "mod/Xi_Jinping_Propaganda"
+user_dir = "Xi_Jinping_Propaganda"
 replace_path = "history/provinces"
 replace_path = "events"
 replace_path = "decisions"
